@@ -1,0 +1,8 @@
+[
+  { "artista": "Pitty", "titulo": "Me Adora", "duracao": 220 },
+  { "artista": "Foo Fighters", "titulo": "The Pretender", "duracao": 269 },
+  { "artista": "Foo Fighters", "titulo": "Everlong", "duracao": 250 },
+  { "artista": "Foo Fighters", "titulo": "Best of You", "duracao": 255 },
+  { "artista": "Green Day", "titulo": "Basket Case", "duracao": 183 },
+  { "artista": "Red Hot Chili Peppers", "titulo": "Californication", "duracao": 320 }
+]
